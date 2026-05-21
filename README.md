@@ -1,301 +1,156 @@
-# ✨ Sarthak Nimbark - AI Engineer & Full Stack Developer
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+AI+%26+ML+Engineer;🔥+Generative+AI+Specialist;💻+Full+Stack+Developer;⚡+Building+Intelligent+Systems)
+# 👋 Hey there, I'm Sarthak Nimbark
 
-**Building production-grade AI systems that solve real-world problems**
+### 🤖 AI Engineer | Full Stack Developer | Building Intelligent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-nimbark)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sarthaknimbark@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthanimbark)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sarthaknimbark13)
+[![Profile Views](https://komarev.com/ghpvc/?username=sarthanimbark&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/sarthanimbark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sarthak-nimbark)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:work.sarthaknimbark@gmail.com)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Intelligent+Applications;LangChain+%7C+Vector+DBs+%7C+AI+Agents" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
 ```python
 class SarthakNimbark:
     def __init__(self):
         self.role = "AI Engineer & Full Stack Developer"
         self.education = "B.Tech Computer Engineering (Final Year)"
-        self.location = "📍 Surat, Gujarat, India"
-        
-        self.expertise = {
-            "ai_ml": ["LLMs", "RAG Systems", "AI Agents", "GenAI", "Fine-tuning"],
-            "full_stack": ["React", "Next.js", "Node.js", "FastAPI", "TypeScript"],
-            "databases": ["PostgreSQL", "MongoDB", "Pinecone", "Chroma", "FAISS"],
-            "devops": ["Docker", "AWS", "GitHub Actions", "MLOps"]
-        }
-        
-        self.current_mission = "Building autonomous AI agents that work in production"
-        self.open_to = ["AI/ML roles", "Startup opportunities", "Collaboration"]
+        self.location = "Surat, Gujarat, India"
+        self.current_focus = [
+            "Building AI Agents with LangChain",
+            "Vector Databases & RAG Systems",
+            "Generative AI Applications",
+            "Full Stack AI Integration"
+        ]
+        self.interests = [
+            "Large Language Models",
+            "Natural Language Processing",
+            "Computer Vision",
+            "MLOps & Model Deployment"
+        ]
     
-    def get_status(self):
-        return "🚀 Available for exciting AI/ML projects"
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
 me = SarthakNimbark()
-print(me.get_status())
+me.say_hi()
 ```
 
 ---
 
-## 🚀 What I Do
+## 🧠 AI/ML Arsenal
 
-### 🤖 AI & Generative AI
-- **LLM Applications**: Building with OpenAI, Claude, LLaMA
-- **RAG Systems**: Advanced retrieval with semantic search & re-ranking
-- **AI Agents**: Multi-agent systems with tool-use and orchestration
-- **Fine-tuning**: Domain-specific model adaptation and optimization
-- **Prompt Engineering**: Advanced techniques for better LLM outputs
+### **Core AI/ML Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-### 💻 Full Stack Development
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, FastAPI, Python
-- **Real-time**: WebSockets, Streaming, Live features
-- **Scale**: Distributed systems, caching, optimization
+### **LLM & AI Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex"/>
+</p>
 
-### 🔧 ML Engineering
-- **Model Deployment**: Production ML pipelines with monitoring
-- **Computer Vision**: CNNs, Transformers, Object detection
-- **NLP**: Sentiment analysis, NER, Text classification
-- **MLOps**: Training pipelines, versioning, A/B testing
+### **Vector Databases & Search**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge" alt="Chroma"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge" alt="Weaviate"/>
+</p>
 
----
+### **Full Stack Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
 
-## 💼 Featured Projects ⭐
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="2" align="center">🏆 Production AI Systems</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🧠 Multi-Agent Intelligence System</h3>
-        <p><strong>Advanced autonomous agents with specialized roles</strong></p>
-        
-**Tech Stack:**
-- LangChain, AutoGen, OpenAI
-- FastAPI, PostgreSQL
-- Real-time orchestration
-        
-**Key Features:**
-✅ Inter-agent communication
-✅ Dynamic task delegation
-✅ Memory & context management
-✅ Tool-use with 20+ integrations
-        
-**Impact:** Handles complex workflows that previously required manual intervention
-      </td>
-      <td align="center" width="50%">
-        <h3>📚 Enterprise RAG Platform</h3>
-        <p><strong>Semantic search with 95%+ accuracy on domain-specific Q&A</strong></p>
-        
-**Tech Stack:**
-- LlamaIndex, Pinecone
-- HuggingFace embeddings
-- Python, FastAPI
-        
-**Key Features:**
-✅ Hybrid retrieval (BM25 + semantic)
-✅ Query expansion & rewriting
-✅ Semantic caching layer
-✅ Multi-source indexing
-        
-**Impact:** Reduces support tickets by 40% with instant answers
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>💬 AI Chatbot Platform</h3>
-        <p><strong>Production chatbot serving 1000+ active users</strong></p>
-        
-**Tech Stack:**
-- React, Node.js, LangChain
-- MongoDB, Redis
-- WebSocket for real-time
-        
-**Key Features:**
-✅ Context-aware conversations
-✅ User conversation history
-✅ Typing indicators & streaming
-✅ Admin analytics dashboard
-        
-**Impact:** 4.8/5 user rating, 5K+ daily interactions
-      </td>
-      <td align="center">
-        <h3>🔍 Document Intelligence Engine</h3>
-        <p><strong>Processes 10K+ documents daily with 92% accuracy</strong></p>
-        
-**Tech Stack:**
-- Python, TensorFlow, PyTorch
-- FastAPI, PostgreSQL
-- Cloud storage integration
-        
-**Key Features:**
-✅ Form recognition & extraction
-✅ Entity recognition (NER)
-✅ Document classification
-✅ Batch processing pipeline
-        
-**Impact:** Reduces manual document work by 80%
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>📊 Sentiment & Insights Engine</h3>
-        <p><strong>Analyzes 50K+ social posts daily in real-time</strong></p>
-        
-**Tech Stack:**
-- Transformers, PyTorch
-- Elasticsearch, Node.js
-- WebSockets for live updates
-        
-**Key Features:**
-✅ Multi-language sentiment analysis
-✅ Aspect-based opinion mining
-✅ Trend detection
-✅ Real-time dashboards
-        
-**Impact:** Actionable insights for brand management
-      </td>
-      <td align="center">
-        <h3>⚙️ ML Ops Pipeline</h3>
-        <p><strong>End-to-end MLOps with 99.9% uptime</strong></p>
-        
-**Tech Stack:**
-- Docker, Kubernetes, AWS
-- GitHub Actions CI/CD
-- MLflow, Prometheus
-        
-**Key Features:**
-✅ Auto-scaling deployments
-✅ Model versioning & tracking
-✅ Drift detection & alerts
-✅ Zero-downtime updates
-        
-**Impact:** 10x faster deployment cycle
-      </td>
-    </tr>
-  </tbody>
-</table>
+### **Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 What I'm Building
+
+🤖 **AI-Powered Applications**
+- Developing intelligent chatbots using LangChain and OpenAI
+- Building RAG (Retrieval Augmented Generation) systems with vector databases
+- Creating autonomous AI agents for task automation
+
+🧪 **ML Experimentation**
+- Training and fine-tuning language models
+- Computer vision projects with CNNs
+- NLP pipelines for text analysis and sentiment detection
+
+🌐 **Full Stack AI Integration**
+- Seamless AI/ML model deployment in web applications
+- Real-time AI features with React and Node.js
+- Building scalable AI-powered APIs
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthanimbark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthanimbark&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthanimbark&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthanimbark&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Featured Projects
 
 <div align="center">
 
-### 🤖 AI/ML & LLMs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 🧠 LLM & Generative AI Frameworks
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-6B6B9D?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### 🔍 Vector Databases
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square)
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### 🔗 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI ChatBot Platform** | Multi-agent chatbot system with memory and context awareness | LangChain, OpenAI, Pinecone, React |
+| 📚 **RAG Document Assistant** | Intelligent document Q&A using retrieval augmented generation | Python, FAISS, HuggingFace, FastAPI |
+| 🧠 **ML Model Deployment Pipeline** | End-to-end MLOps pipeline for model training and deployment | TensorFlow, Docker, AWS, GitHub Actions |
+| 💬 **Sentiment Analysis API** | Real-time sentiment analysis for social media text | PyTorch, Transformers, Node.js, MongoDB |
 
 </div>
 
 ---
 
-## 📈 Stats & Impact
+## 📚 Currently Learning
 
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Projects Deployed** | 15+ production systems |
-| **Active Users Served** | 5000+ daily |
-| **Documents Processed** | 100K+ monthly |
-| **System Uptime** | 99.9% |
-| **Code Quality** | A+ (consistent) |
-| **AI/ML Expertise** | 2+ years |
-
-</div>
-
----
-
-## 🎓 Continuous Learning
-
-<div align="center">
-
-**Currently Mastering:**
-
-🔬 **Multimodal AI** - Vision + Language models combined
-🧩 **Advanced Prompting** - Techniques for 10x better LLM outputs
-🎯 **Fine-tuning at Scale** - Llama 2, Mistral, domain-specific models
-🚀 **Autonomous Agents** - Building self-improving AI systems
-⚡ **Performance Optimization** - Sub-100ms vector search latency
-🛠️ **Production MLOps** - Monitoring, scaling, drift detection
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 Generative AI</h3>
-      <p>LLMs • RAG • Agents</p>
-      <p>Fine-tuning • Embeddings</p>
-      <p>Prompt Engineering</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 Full Stack</h3>
-      <p>Frontend • Backend</p>
-      <p>Real-time Systems</p>
-      <p>API Design</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ MLOps</h3>
-      <p>Deployment • Scaling</p>
-      <p>Monitoring • Testing</p>
-      <p>Production Systems</p>
-    </td>
-  </tr>
-</table>
+- 🔥 Advanced prompt engineering techniques
+- 🧩 Building complex AI agent workflows
+- 🎯 Fine-tuning LLMs for specific domains
+- ⚡ Optimizing vector search performance
+- 🛠️ MLOps best practices and model monitoring
 
 ---
 
@@ -303,42 +158,31 @@ print(me.get_status())
 
 ```javascript
 const sarthak = {
-  bestLanguages: ["Python", "JavaScript", "TypeScript"],
-  favoriteFrameworks: {
-    ai: "LangChain",
-    frontend: "React + Next.js",
-    backend: "FastAPI"
+  code: ["Python", "JavaScript", "TypeScript", "Java"],
+  askMeAbout: ["AI/ML", "Web Dev", "LLMs", "Vector DBs", "System Design"],
+  technologies: {
+    ai: ["LangChain", "OpenAI", "HuggingFace", "TensorFlow", "PyTorch"],
+    frontEnd: ["React", "Next.js", "Tailwind", "Bootstrap"],
+    backEnd: ["Node.js", "Express", "FastAPI", "Flask"],
+    databases: ["MongoDB", "PostgreSQL", "Pinecone", "Chroma"],
+    tools: ["Git", "Docker", "Postman", "VS Code"]
   },
-  thinkAbout: [
-    "How to make AI actually useful",
-    "Building systems that scale",
-    "Clean, maintainable code",
-    "The future of AI agents"
-  ],
-  currentlyBuilding: "The next generation of intelligent AI systems 🚀",
-  willTalkAboutFor: "Hours: LLMs, RAG, Agents, System design, Startups"
+  currentChallenge: "Building production-ready AI agents that actually work 🚀"
 };
 ```
 
 ---
 
-## 📬 Let's Connect & Collaborate!
-
-I'm always excited to work on **cutting-edge AI/ML projects** and discuss how to build the future with intelligent systems.
+## 🤝 Let's Connect!
 
 <div align="center">
 
-**Open for:**
-- 🚀 AI/ML Engineering roles
-- 🤝 Startup collaborations
-- 💡 Open-source contributions
-- 📚 Knowledge sharing & mentoring
+I'm always excited to collaborate on AI/ML projects or discuss innovative ideas!
 
-### Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-nimbark)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sarthaknimbark@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthanimbark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-nimbark)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sarthaknimbark@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sarthaknimbark13)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/sarthaknimbark)
 
 </div>
 
@@ -346,16 +190,10 @@ I'm always excited to work on **cutting-edge AI/ML projects** and discuss how to
 
 <div align="center">
 
-## 🌟 Key Takeaway
+### 💭 *"The best way to predict the future is to build it."*
 
-**Building production-grade AI systems that solve real problems and scale to millions of users.**
+**⭐ From [sarthanimbark](https://github.com/sarthanimbark) | Building the AI-powered future, one commit at a time**
 
-*Let's build something amazing together.* 🚀
-
----
-
-**Based in Surat, India 📍 | Open to Remote | Always Learning | Passionate about AI** 
-
-⭐ **If you found value, consider giving my repos a star!**
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
